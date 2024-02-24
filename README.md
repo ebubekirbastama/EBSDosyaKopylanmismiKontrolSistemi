@@ -8,7 +8,7 @@ Bu uygulama, güvenlik günlüğündeki dosya kopyalama olaylarını izleyen bir
    - Bu projeyi bilgisayarınıza indirmek için aşağıdaki komutu kullanabilirsiniz:
 
      ```
-     git clone https://github.com/ebubekirbastama/EBSDosyaKopylanmismiKontrolSistemi.git
+     git clone https://github.com/ebubekirbastama/EBSDosyaKopylanmismiKontrolSistemi
      ```
 
 2. **Geliştirme Ortamı:**
